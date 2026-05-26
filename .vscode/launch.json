@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinarytoDecimal",
+            "request": "launch",
+            "mainClass": "Functions.BinarytoDecimal",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "nPr",
+            "request": "launch",
+            "mainClass": "Functions.nPr",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "nCr",
+            "request": "launch",
+            "mainClass": "Functions.nCr",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
             "name": "PermutationAndCombination",
             "request": "launch",
             "mainClass": "Functions.PermutationAndCombination",

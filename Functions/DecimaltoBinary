@@ -1,0 +1,19 @@
+package Functions;
+public class DecimaltoBinary{
+    public static int Binary(int num){
+        int result =0;
+        int place=1;
+        while(num>0){
+            int remainder = num%2;
+            result = result + remainder*place;
+            num =num/2;
+            place = place*10;
+        }
+        return result;
+    }
+           
+    public static void main(String[] args){
+        int num =100;
+        System.out.println(Binary(num));
+    }
+}
