@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Numberguess",
+            "request": "launch",
+            "mainClass": "Functions.Numberguess",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Functions.Fibonacci",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "FrequencyofDigit",
+            "request": "launch",
+            "mainClass": "Functions.FrequencyofDigit",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "StrongNumber",
+            "request": "launch",
+            "mainClass": "Functions.StrongNumber",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
             "name": "BinarytoDecimal",
             "request": "launch",
             "mainClass": "Functions.BinarytoDecimal",
