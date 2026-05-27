@@ -1,4 +1,4 @@
-package Functions;
+package Functions.Conversions;
 
 public class BinarytoDecimal {
     public static int Decimal(int num){

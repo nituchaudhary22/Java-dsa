@@ -11,23 +11,23 @@ public class Numberguess {
             System.out.println("Too low");
         }
         else {
-            System.out.println("Correct Number!");
+            System.out.println("Correct Number");
         }
     }
      public static void playGame() {
 
         Scanner sc = new Scanner(System.in);
 
-        int secretNumber = 50;
+        int num = 50;
         int guess;
 
         do {
             System.out.println("Enter number between 1 to 100: ");
             guess = sc.nextInt();
 
-            Guess(secretNumber, guess);
+            Guess(num, guess);
 
-        } while (guess != secretNumber);
+        } while (guess != num);
 
         sc.close();
     }

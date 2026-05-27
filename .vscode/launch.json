@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DecimaltoHex",
+            "request": "launch",
+            "mainClass": "Functions.Conversions.DecimaltoHex",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Traversal",
+            "request": "launch",
+            "mainClass": "Array.Traversal",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Replace0",
+            "request": "launch",
+            "mainClass": "Functions.Replace0",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "DecimaltoOctal",
+            "request": "launch",
+            "mainClass": "Functions.Conversions.DecimaltoOctal",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "OctaltoDecimal",
+            "request": "launch",
+            "mainClass": "Functions.Conversions.OctaltoDecimal",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "MaxElement",
+            "request": "launch",
+            "mainClass": "Array.MaxElement",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "Array.LinearSearch",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "EvenValuesinArray",
+            "request": "launch",
+            "mainClass": "Array.EvenValuesinArray",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Basics",
+            "request": "launch",
+            "mainClass": "Array.Basics",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "OctaltoDecimal",
+            "request": "launch",
+            "mainClass": "Functions.OctaltoDecimal",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "DecimaltoOctal",
+            "request": "launch",
+            "mainClass": "Functions.DecimaltoOctal",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
             "name": "Numberguess",
             "request": "launch",
             "mainClass": "Functions.Numberguess",
